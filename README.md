@@ -4,7 +4,7 @@ TowerSlug
 Tower Defense Game. Simple and short.
 
 This is the folder from the /src/ folder in eclipse.
-Add to there and then create a new javaProject with the name "towers" (no quotes).
+Add to there and then create a new javaProject with the name "TowerSlug" (no quotes).
 Will compile program to .jar and upload to git.
 
 A lot of files are not used will trim down and comment better in the future.
