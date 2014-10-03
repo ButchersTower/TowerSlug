@@ -1,4 +1,4 @@
-package towers;
+package TowerSlug;
 
 import java.awt.Color;
 import java.awt.Dimension;

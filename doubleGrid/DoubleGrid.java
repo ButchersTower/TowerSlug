@@ -1,4 +1,4 @@
-package towers.doubleGrid;
+package TowerSlug.doubleGrid;
 
 import javax.swing.JFrame;
 

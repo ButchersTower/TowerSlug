@@ -1,4 +1,4 @@
-package towers.doubleGrid;
+package TowerSlug.doubleGrid;
 
 import java.awt.Color;
 import java.awt.Dimension;

@@ -1,4 +1,4 @@
-package towers.doubleGrid;
+package TowerSlug.doubleGrid;
 
 import java.io.BufferedReader;
 import java.io.IOException;
