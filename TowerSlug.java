@@ -5,12 +5,12 @@ import java.awt.Insets;
 import javax.swing.JFrame;
 import javax.swing.JMenuBar;
 
-public class Towers extends JFrame {
+public class TowerSlug extends JFrame {
 	static JFrame frame;
 
 	int height = 0;
 
-	public Towers() {
+	public TowerSlug() {
 		frame = new JFrame();
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.setContentPane(new Panel());
@@ -28,6 +28,6 @@ public class Towers extends JFrame {
 	}
 
 	public static void main(String[] args) {
-		new Towers();
+		new TowerSlug();
 	}
 }

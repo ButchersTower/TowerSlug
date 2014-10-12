@@ -322,10 +322,10 @@ public class Panel extends JPanel implements Runnable, KeyListener,
 	void getMouseLoc() {
 		// Used to figure out mouse location relative to jpanel.
 		double mouseX = MouseInfo.getPointerInfo().getLocation().getX();
-		double frameX = Towers.frame.getLocation().getX();
+		double frameX = TowerSlug.frame.getLocation().getX();
 		double mouseY = MouseInfo.getPointerInfo().getLocation().getY()
 				- topInset;
-		double frameY = Towers.frame.getLocation().getY();
+		double frameY = TowerSlug.frame.getLocation().getY();
 		relativeX = (mouseX - frameX);
 		relativeY = (mouseY - frameY);
 	}
